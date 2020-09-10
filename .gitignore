@@ -50,3 +50,4 @@
 
 preseeds/*
 preseeder
+!cmd/preseeder
