@@ -1,0 +1,6 @@
+preseeds
+.vscode
+./preseeder
+.gitignore
+.dockerignore
+Dockerfile
